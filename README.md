@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Kirill
 
 - 🇩🇪 I write code for a living in Munich, Germany
-- 🧑‍💻 It's mostly PHP and C#, less often Python and JavaScript
+- 🧑‍💻 It's mostly python, less often PHP and C#
 - ☕ Apart from programming my nights away, I like [cooking](https://github.com/MrGauz/recipes) and coffee
 
 **Things I do:**
